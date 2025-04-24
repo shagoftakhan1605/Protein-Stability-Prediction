@@ -70,7 +70,7 @@ The model demonstrates strong in-sample performance with reasonable generalizati
 ### 🔹 SHAP Analysis — Feature Importance
 
 #### 1. **Global Importance**
-![Feature Importance](file-C1gyXzAnGvyNXdzaQg8Q8K)
+![download](https://github.com/user-attachments/assets/96347e02-c4e0-409a-bd1a-7153ca8faba6)
 
 - **Top Contributors**:
   - `AA_S__fraction` (Serine content) is the most influential feature.
@@ -90,7 +90,6 @@ The model demonstrates strong in-sample performance with reasonable generalizati
 ---
 
 #### 3. **SHAP Dependence Plot for pH**
-![download](https://github.com/user-attachments/assets/b69a0790-e937-4d57-9569-f4610aee3475)
 ![download](https://github.com/user-attachments/assets/b9a8ee14-34a8-4a5d-8201-b7b0167457b9)
 
 - Indicates strong interaction between **pH** and `AA_E__fraction` (Glutamic Acid).
